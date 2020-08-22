@@ -2,7 +2,7 @@ class Bob {
     constructor(x,y, radius){    
     var options ={
         isStatic: false,
-        restitution: 0.1,
+        restitution: 10,
         friction: 0.1,
         density: 0.1
      }
