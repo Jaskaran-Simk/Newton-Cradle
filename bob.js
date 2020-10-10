@@ -3,8 +3,8 @@ class Bob {
     var options ={
         isStatic: false,
         restitution: 1,
-        friction: 1,
-        density: 2.2
+        friction: 0,
+        density: 1
      }
      this.x =x;
      this.y=y;
