@@ -4,7 +4,7 @@ class Bob {
         isStatic: false,
         restitution: 1,
         friction: 0,
-        density: 1
+        density: 1.5
      }
      this.x =x;
      this.y=y;
